@@ -1,11 +1,5 @@
 ## Street Names
-A repo to tinker with historic street name data for nyc 
- 
-## Installation
-TODO: Describe the installation process
-
-## Usage
-TODO: Write usage instructions
+The purpose of this repo is to tinker with historic street name data for New York City. 
 
 ## Contributing
 1. Fork it!
@@ -13,9 +7,6 @@ TODO: Write usage instructions
 3. Commit your changes: `git commit -am 'Add some feature'`
 4. Push to the branch: `git push origin my-new-feature`
 5. Submit a pull request :D
-
-## History
-TODO: Write history
 
 ## Credits
 TODO: Write credits
